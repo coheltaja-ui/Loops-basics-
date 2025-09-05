@@ -1,0 +1,18 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+        
+
+        for  (int counter = 0 ; counter < 21 ; counter++){
+
+            if (counter == 5 || counter == 16 || counter == 20)
+             {
+                System.out.println(counter);
+            }
+            
+        
+        }
+       
+    
+        
+    }
+}
